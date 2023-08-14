@@ -1,3 +1,29 @@
 .jumbotron{
-    background-color: #e9ecef;
+    background-color: green;
+    color: white;
+}
+.reg-body{
+    background-color: green;
+    
+}
+.form-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+#butt{
+    width: 300px;
+    
+}
+.error{
+    color:red;
+}
+.trackSteps{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bak{
+    width: 20px;
 }
